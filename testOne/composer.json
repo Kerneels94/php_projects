@@ -1,0 +1,11 @@
+{
+    "name": "corri/test-one",
+    "autoload": {
+        "psr-4": {
+            "Corri\\TestOne\\": "src/"
+        }
+    },
+    "require": {
+        "mongodb/mongodb": "^1.12"
+    }
+}

@@ -1,0 +1,3 @@
+<?php
+
+$n = new MongoDB();
